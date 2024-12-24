@@ -124,13 +124,6 @@ For any bug reports or feature requests, please use the [Issues](https://github.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## Contact
-
-- **Project Link**: [https://github.com/yourusername/ai_wellness_coach](https://github.com/yourusername/ai_wellness_coach)
-- **Email**: your.email@example.com
-```
 
 ---
 
