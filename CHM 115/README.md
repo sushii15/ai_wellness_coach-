@@ -127,4 +127,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can copy and paste this block into your `README.md` file. Adjust the placeholders (like `yourusername`, `your-openai-api-key`, etc.) with your own details, and you'll have a complete, detailed README ready for your GitHub project! Let me know if you need any more modifications!
+
