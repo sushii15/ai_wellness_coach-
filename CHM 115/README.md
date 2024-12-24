@@ -1,5 +1,5 @@
 # AI Wellness Coach
-Sure! Here’s the entire README in one block:
+
 
 ```markdown
 # AI Wellness Coach
